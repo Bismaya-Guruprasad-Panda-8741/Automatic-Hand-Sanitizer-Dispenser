@@ -1,5 +1,5 @@
 # Automatic-Hand-Sanitizer-Dispenser
-# 🤲 Contactless Automatic Hand Sanitizer Dispenser
+#  Contactless Automatic Hand Sanitizer Dispenser
 ### 🔧 Using Arduino Nano & HC-SR04 Ultrasonic Sensor
 
 > 🚫🖐️ No Touch. No Germs. Just Clean Hands!
